@@ -1,2 +1,2 @@
-# Simple_Spring_Application
-Simple Spring Application
+# Simple_Web_Application
+Simple Web Application

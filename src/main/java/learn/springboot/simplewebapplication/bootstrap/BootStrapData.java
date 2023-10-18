@@ -41,6 +41,7 @@ public class BootStrapData implements CommandLineRunner {
 
         System.out.println("Started in BootStrap...");
         System.out.println("Number of the Books: " + bookRepository.count());
+        System.out.println("Number of Author: " + authorRepository.count());
 
     }
 }

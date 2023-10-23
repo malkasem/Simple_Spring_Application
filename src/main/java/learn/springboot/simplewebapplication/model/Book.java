@@ -82,7 +82,7 @@ public class Book {
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", isbn='" + isbn + '\'' +
-                '}';
+                 '}';
     }
 
     // Equals and HashCode for Database
